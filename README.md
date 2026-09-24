@@ -4,7 +4,7 @@
 
 Create videos programmatically using React (Remotion) or generate mathematical/conceptual animations (Manim). Use when the user asks to make a video, animation, product demo, tutorial, social clip, or branded video pipeline. Triggers: /remotion-video, /video-animation, /video-toolkit
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `remotion`
 
 ## Install
